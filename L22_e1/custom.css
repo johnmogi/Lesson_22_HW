@@ -1,0 +1,22 @@
+.red {
+  background: #ff0000;
+}
+.blue {
+  background: blue;
+}
+.row {
+  margin: 5px 0;
+}
+.col {
+  min-height: 150px;
+  text-align: center;
+  color: #fff;
+}
+.opacityfull {
+  opacity: 1;
+  transition-delay: 1s;
+}
+.opacityempty {
+  opacity: 0;
+  transition-delay: 1s;
+}
